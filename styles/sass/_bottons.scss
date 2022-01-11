@@ -1,0 +1,45 @@
+@use 'colors';
+@use 'typography';
+
+.article__button{
+    border: 1px solid colors.$twhite;
+    padding: 0.6em 1em;
+    border-radius: 17px;
+    background-color: colors.$twhite;
+    color: colors.$twhite;
+    font-size: 0.8em;
+    font-family: typography.$mainfont;
+    width: 140px;
+
+    &:hover{
+        background-color: transparent;
+
+    }
+}
+
+.sedan__button{
+    color: colors.$orange;
+    cursor: pointer;
+
+    &:hover{
+        color: colors.$twhite
+    }
+}
+
+.suvs__button{
+    color: colors.$dark;
+    cursor: pointer;
+
+    &:hover{
+        color: colors.$twhite
+    }
+}
+
+.luxury__button{
+    color: colors.$verydark;
+    cursor: pointer;
+
+    &:hover{
+        color: colors.$twhite
+    }
+}

@@ -13,6 +13,6 @@
 - Nesting
 
 
-![Screen Versión Responsive](https://raw.githubusercontent.com/maomur/ejercicio-mentor-1/main/assets/images/screen-web-version.png)
+![Screen Versión Responsive](https://raw.githubusercontent.com/maomur/ejercicio-mentor-1/main/assets/images/web-version.png)
 
 ![Screen Versión Web](https://raw.githubusercontent.com/maomur/ejercicio-mentor-1/main/assets/images/responsive-version.png)
